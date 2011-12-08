@@ -1,18 +1,18 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/ccamacho/Dropbox/Active/Code/omniauth-active_passport/lib/omniauth-active_passport.rb": [
+      "/Users/ccamacho/Dropbox/Active/Code/active-oauth/lib/omniauth-active_passport.rb": [
         1,
         1
       ],
-      "/Users/ccamacho/Dropbox/Active/Code/omniauth-active_passport/lib/omniauth-active_passport/version.rb": [
+      "/Users/ccamacho/Dropbox/Active/Code/active-oauth/lib/omniauth-active_passport/version.rb": [
         1,
         1,
         1,
         null,
         null
       ],
-      "/Users/ccamacho/Dropbox/Active/Code/omniauth-active_passport/lib/omniauth/strategies/active_passport.rb": [
+      "/Users/ccamacho/Dropbox/Active/Code/active-oauth/lib/omniauth/strategies/active_passport.rb": [
         1,
         1,
         null,
@@ -56,7 +56,7 @@
         null,
         null
       ],
-      "/Users/ccamacho/Dropbox/Active/Code/omniauth-active_passport/lib/oauth2_patch/client.rb": [
+      "/Users/ccamacho/Dropbox/Active/Code/active-oauth/lib/oauth2_patch/client.rb": [
         null,
         null,
         1,
@@ -79,6 +79,6 @@
         null
       ]
     },
-    "timestamp": 1323381083
+    "timestamp": 1323382335
   }
 }
