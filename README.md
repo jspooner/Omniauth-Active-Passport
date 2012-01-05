@@ -35,6 +35,10 @@ Modify routes.rb to include the following:
 	end
 	
 
+Make sure your model (e.g. user.rb) is omniauthable:
+	devise :omniauthable
+
+
 Devise will create the following url method for linking to the provider:
 	
 	user_omniauth_authorize_path(:active_passport)
